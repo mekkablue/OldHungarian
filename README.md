@@ -2,6 +2,11 @@
 
 Old Hungarian (Rovas) Glyph Data for the [Glyphs.app font editor](https://glyphsapp.com/)
 
+### Contents:
+
+* **GlyphData.xml:** adds the glyph data to the internal glyph database of Glyphs.app
+* **Groups.plist:** contains sidebar entries for the addition to the Font View sidebar of Glyphs.app
+
 ### Resources:
 
 * Wikipedia: https://en.wikipedia.org/wiki/Old_Hungarian_script
@@ -9,6 +14,7 @@ Old Hungarian (Rovas) Glyph Data for the [Glyphs.app font editor](https://glyphs
 * Old Hungarian Font: https://github.com/OldHungarian/old-hungarian-font (FontForge sources)
 * Unicode Chart: https://www.unicode.org/charts/PDF/U10C80.pdf
 * Glyph Data tutorial for Glyphs: https://glyphsapp.com/tutorials/roll-your-own-glyph-data
+* Custom Sidebar Entry tutorial for Glyphs: https://glyphsapp.com/tutorials/custom-sidebar-entries-in-font-view
 * Free EditGlyphData app for editing the XML in this repository: https://glyphsapp.com/tools/editglyphdata
 
 ### Installation
