@@ -105,7 +105,7 @@
 	<glyph unicode="10CE0" name="ep-rovas" sortName="oldHungarian.084" category="Letter" subCategory="Lowercase" script="rovas" production="u10CE0" description="OLD HUNGARIAN SMALL LETTER EP" />
 	<glyph unicode="10CE1" name="emp-rovas" sortName="oldHungarian.085" category="Letter" subCategory="Lowercase" script="rovas" production="u10CE1" description="OLD HUNGARIAN SMALL LETTER EMP" />
 	<glyph unicode="10CE2" name="er-rovas" sortName="oldHungarian.086" category="Letter" subCategory="Lowercase" script="rovas" production="u10CE2" description="OLD HUNGARIAN SMALL LETTER ER" />
-	<glyph unicode="10CE3" name="short er-rovas" sortName="oldHungarian.087" category="Letter" subCategory="Lowercase" script="rovas" production="u10CE3" description="OLD HUNGARIAN SMALL LETTER SHORT ER" />
+	<glyph unicode="10CE3" name="erShort-rovas" sortName="oldHungarian.087" category="Letter" subCategory="Lowercase" script="rovas" production="u10CE3" description="OLD HUNGARIAN SMALL LETTER SHORT ER" />
 	<glyph unicode="10CE4" name="es-rovas" sortName="oldHungarian.088" category="Letter" subCategory="Lowercase" script="rovas" production="u10CE4" description="OLD HUNGARIAN SMALL LETTER ES" />
 	<glyph unicode="10CE5" name="esz-rovas" sortName="oldHungarian.089" category="Letter" subCategory="Lowercase" script="rovas" production="u10CE5" description="OLD HUNGARIAN SMALL LETTER ESZ" />
 	<glyph unicode="10CE6" name="et-rovas" sortName="oldHungarian.090" category="Letter" subCategory="Lowercase" script="rovas" production="u10CE6" description="OLD HUNGARIAN SMALL LETTER ET" />
